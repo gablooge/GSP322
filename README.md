@@ -6,7 +6,7 @@ https://www.qwiklabs.com/focuses/12068?parent=catalog
 
 
 # Note: 
-** SSH to bastion host via IAP and juice-shop via bastion **
+The Last Task: **SSH to bastion host via IAP and juice-shop via bastion**
 - Open https://console.cloud.google.com/compute/instances 
 - Click ssh terminal on bastion vm, run ssh twice in the terminal browser dialog:
 
